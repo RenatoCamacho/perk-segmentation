@@ -24,3 +24,4 @@ As a member of the Analytics team, my task was to collaborate with the marketing
 This project aims to provide critical insights for crafting a rewards program that resonates with the customer base, enhancing customer loyalty and driving the company's growth in a competitive market.
 
 ---
+Note to viewers: data is now inaccessible due to student subscription ending, therefore you can not RUN notebook,
